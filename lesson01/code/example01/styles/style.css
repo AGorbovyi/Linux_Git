@@ -5,9 +5,15 @@
 }
 
 #house1 {
-    background-color: aqua;
+    background-color: grey;
 }
 
 #shop {
-    background-color: bisque;
+    background-color: grey;
+}
+
+.window {
+    width: 55px;
+    height: 55px;
+    background-color: aqua;
 }
